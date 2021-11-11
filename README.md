@@ -56,4 +56,4 @@
 
 </details>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chez025)](https://github.com/chezo25/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chezo25)](https://github.com/chezo25/github-readme-stats)
