@@ -2,7 +2,7 @@
 
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://http://islandboydev.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chezley-stoddard-53919552/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/chezling?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fchezling&screen_name=chezling)
 
 ## I'm a Husband, Father, and Developer!!
@@ -17,9 +17,9 @@
 
 [<img align="left" alt="islandboydev.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://http://islandboydev.com/)
 [<img align="left" alt="islandboydev | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCquOl84enWFiMtWLdT8VLCA)
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fchezling&screen_name=chezling) 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="islandboydev | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fchezling&screen_name=chezling) 
+[<img align="left" alt="islandboydev| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/chezley-stoddard-53919552/)
+[<img align="left" alt="islandboydev | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/mcrush25/)
 
 <br />
 
