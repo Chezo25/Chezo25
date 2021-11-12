@@ -15,9 +15,9 @@
 
 ### Connect with me:
 
-[!<img align="left" alt="islandboydev.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://http://islandboydev.com/)
-[!<img align="left" alt="islandboydev | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCquOl84enWFiMtWLdT8VLCA)
-[!<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fchezling&screen_name=chezling) 
+[<img align="left" alt="islandboydev.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://http://islandboydev.com/)
+[<img align="left" alt="islandboydev | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCquOl84enWFiMtWLdT8VLCA)
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fchezling&screen_name=chezling) 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
