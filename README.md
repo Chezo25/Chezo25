@@ -1,7 +1,7 @@
 ### Hi there, I'm Chezley - aka IslandBoyDev 👋 
 
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://http://islandboydev.com/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://gifted-wiles-26ac80.netlify.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chezley-stoddard-53919552/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/chezling?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fchezling&screen_name=chezling)
 
